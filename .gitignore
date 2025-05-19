@@ -1,0 +1,17 @@
+# Virtual environment
+coffee/
+.venv/
+env/
+.ENV/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VSCode settings (optional)
+.vscode/
+
+# OS/system files
+.DS_Store
